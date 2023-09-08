@@ -45,6 +45,8 @@ Prerequisites:
 ## Contributing
 Want to contribute? The team encourages community feedback and contributions. Please follow our [contributing guidelines](CONTRIBUTING.md).
 
+## new information by Stephen
+
 If Calculator is not working properly, please file a report in the [Feedback Hub](https://insider.windows.com/en-us/fb/?contextid=130).
 We also welcome [issues submitted on GitHub](https://github.com/Microsoft/calculator/issues).
 
